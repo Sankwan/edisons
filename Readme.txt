@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for visiting our site
 
-Template Name: Rapid
-Template URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a basic website for the Edisons brand. 
+Faith, Creativity, Productivity
+
+It hinges on bootstrap, html, css.
